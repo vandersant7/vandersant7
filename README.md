@@ -1,6 +1,6 @@
 <h1 align="left">Hey, devs. Evandro aqui! :)</h1>
 <h3 align="left">Seja bem vindo ao meu perfil.</h3>
-  <p>Atualmente, estou aprimorando meus conhecimentos em <b>Front-End</b>. Ao poucos vou postando projetos - do mais simples até o mais complexos. Estou aberto para sugestões, críticas construtivas. É isso pessoal.
+  <p>Apaixonado por tecnologia, decidi realizar transisão de carreira para área de tecnologia.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandersant7&label=Profile%20views&color=0e75b6&style=flat" alt="vandersant7" /> </p>
 
