@@ -11,11 +11,15 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vandersant7&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Formação em andamento
-[<img src="https://hermes.dio.me/tracks/d52b70b8-8214-44dd-a9f4-92a48dc79818.png" width="70" alt="Formação Node.js Fundamentals">](https://web.dio.me/)
-[<img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" width="70" alt="Desenvolvimento Java com IA">](https://web.dio.me/)
+[<img src="https://hermes.dio.me/tracks/d52b70b8-8214-44dd-a9f4-92a48dc79818.png" width="80" alt="Formação Node.js Fundamentals">](https://web.dio.me/)
+[<img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" width="80" alt="Desenvolvimento Java com IA">](https://web.dio.me/)
 
 ## Bootcamps concluídos
-[<img src="https://hermes.dio.me/files/assets/2623c40f-af0e-4972-ad5b-06a5b431af1e.png" width="70">](https://hermes.dio.me/files/assets/2623c40f-af0e-4972-ad5b-06a5b431af1e.png)
+[<img src="https://hermes.dio.me/tracks/2b3eb506-d986-4a63-b353-c086684ff557.png" width="100">](https://www.dio.me/certificate/F45EZIM8/share) 
+
+## Cursos
+
+[<img src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png" width="80">](https://www.dio.me/certificate/PVCSCUAC/share)
 
 
 ## 🔗 Links
