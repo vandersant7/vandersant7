@@ -2,7 +2,7 @@
 🏷Amante do desenvolvimento web. Busco sempre melhorar e aprender mais, não apenas na área do desenvolvimento, busco também melhorar minhas habilidades interpessoais. Me identifiquei profundamente com o campo do desenvolvimento, mas valorizo os desafios que me levaram a migrar de área. Percebi minha vocação real quando tomei a decisão de fazer essa mudança. Decidi agora seguir minha intuição e me lançar de cabeça em cada novo obstáculo que surge em minha vida. Tenho certeza de que posso ajudar significativamente a empresa com meu conhecimento.
 
 ## Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/ivanildoodlinavi65)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/vandersant7)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vandersant7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://linkedin.com/in/evandrojsantos)
 
