@@ -22,8 +22,9 @@
 [<img src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png" width="80">](https://www.dio.me/certificate/PVCSCUAC/share)
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Guia_para_dominar_carreira_full_stack-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://web.dio.me/articles/o-guia-completo-para-dominar-a-carreira-full-stack-com-a-dio?back=%2Fhome&page=1&order=oldest)
+## 🔗 Artigos que recomendo
+[Guia completo para dominar a carreira full stack](https://web.dio.me/articles/o-guia-completo-para-dominar-a-carreira-full-stack-com-a-dio?back=%2Fhome&page=1&order=oldest)  
+[Guia completo para dominar a carreira front-end](https://web.dio.me/articles/o-guia-completo-para-dominar-a-carreira-front-end-com-a-dio-OV3F8H?back=%2Fhome&page=1&order=oldest)
 
 
 
