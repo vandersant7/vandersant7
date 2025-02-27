@@ -1,5 +1,5 @@
-# Evandro J Santos
-🏷Amante do desenvolvimento web. Busco sempre melhorar e aprender mais, não apenas na área do desenvolvimento, busco também melhorar minhas habilidades interpessoais. Me identifiquei profundamente com o campo do desenvolvimento, mas valorizo os desafios que me levaram a migrar de área. Percebi minha vocação real quando tomei a decisão de fazer essa mudança. Decidi agora seguir minha intuição e me lançar de cabeça em cada novo obstáculo que surge em minha vida. Tenho certeza de que posso ajudar significativamente a empresa com meu conhecimento.
+# Evandro Santos
+🏷Apaixonado por tecnologia.
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/vandersant7)
@@ -11,11 +11,10 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vandersant7&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Formação em andamento
-[<img src="https://hermes.dio.me/tracks/d52b70b8-8214-44dd-a9f4-92a48dc79818.png" width="80" alt="Formação Node.js Fundamentals">](https://web.dio.me/)
-[<img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" width="80" alt="Desenvolvimento Java com IA">](https://web.dio.me/)
 
 ## Bootcamps concluídos
 [<img src="https://hermes.dio.me/tracks/2b3eb506-d986-4a63-b353-c086684ff557.png" width="100">](https://www.dio.me/certificate/F45EZIM8/share) 
+[<img src="https://hermes.dio.me/tracks/d52b70b8-8214-44dd-a9f4-92a48dc79818.png" width="80" alt="Formação Node.js Fundamentals">](https://web.dio.me/)
 
 ## Cursos
 
